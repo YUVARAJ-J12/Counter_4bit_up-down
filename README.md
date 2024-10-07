@@ -106,7 +106,7 @@ Click the cds.lib file and save the file by clicking on Save option
 
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
 
-![Screenshot 2024-10-05 090336](https://github.com/user-attachments/assets/de28299b-9134-4651-802d-77348304825b)
+![Screenshot 2024-10-07 092022](https://github.com/user-attachments/assets/c46b9fe4-c05a-4cca-974b-c552e9b38a6c)
 
 ## Fig 6: Nclaunch Window
 
@@ -132,7 +132,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation 
 
-![Screenshot 2024-10-05 090336](https://github.com/user-attachments/assets/80ba3f9b-0b94-4aed-8478-2d65fe13c429)
+![Screenshot 2024-10-07 092053](https://github.com/user-attachments/assets/3d71967c-8e66-4a3e-ae5d-838e243abe8c)
 
 ## Fig 7: Compiled database in worklib
 
@@ -163,7 +163,7 @@ It contains statements that map logical library names to their physical director
     
 	After elaboration the file will come under snapshot. Select the test bench and simulate it. 
 
-![Screenshot 2024-10-05 090336](https://github.com/user-attachments/assets/9e852b12-f78b-4704-bbb4-dcc36a0e83f7)
+![Screenshot 2024-10-07 092114](https://github.com/user-attachments/assets/1b5ee1e0-9112-4a5a-8501-46df8f59ff27)
 
 ## Fig 8: Elaboration Launch Option
 
