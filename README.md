@@ -1,4 +1,4 @@
-# Counter_4bit_up-down
+# EXP-2: 4 Bit Up-Down Counter
 
 ## Aim:
 
